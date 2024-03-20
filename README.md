@@ -8,7 +8,7 @@ Technical Skills: Python, SQL, GCP, Airflow, Spark
 - M.S., Mathematics & Applications | Sorbonne Université - Paris 6 (_2018_)
 - B.S., Mathematics | Université Pierre et Marie Curie - Paris 6 (_2016_)
 
-### Work Experiience
+### Work Experience
 
 **Data Engineer @ Data Funnel Pro (_Dec 2021 - Present_)**
 - **Pioneered** the launch of the data department, driving a data-driven culture across all departments. 
